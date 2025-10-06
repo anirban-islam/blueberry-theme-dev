@@ -1,0 +1,4 @@
+[environments.dev]
+store = "blueberry-theme-dev"
+store-password = "3365"
+theme-editor-sync = true
