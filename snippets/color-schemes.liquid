@@ -18,6 +18,7 @@
       {% assign opacity_40_60 = 0.40 %}
       {% assign opacity_30_60 = 0.30 %}
     {% endif %}
+    
     .color-{{ scheme.id }} {
         --color-background: rgb({{ scheme.settings.background.rgba }});
         /* RGB values only to apply different opacities - Relative color values are not supported in iOS < 16.4 */
