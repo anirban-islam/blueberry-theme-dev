@@ -1,0 +1,21 @@
+{
+  "name": "blueberry-theme-dev",
+  "version": "1.0.0",
+  "description": "Shopify E-commarce Theme",
+  "homepage": "https://github.com/anirban-islam/blueberry-theme-dev#readme",
+  "bugs": {
+    "url": "https://github.com/anirban-islam/blueberry-theme-dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirban-islam/blueberry-theme-dev.git"
+  },
+  "license": "ISC",
+  "author": "Anirban_Islam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "shopify theme dev -e dev"
+  }
+}
